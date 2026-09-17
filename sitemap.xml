@@ -2,12 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://muse-vektorgeist.github.io/floukie/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-09-17</lastmod>
   </url>
   <url>
     <loc>https://muse-vektorgeist.github.io/floukie/llms.txt</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/the-hodos-hypothesis.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/the-vektorgeist-method-vgm-sovereign-local-self.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/the-afferent-gnosis-model-self-knowledge.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/hodos-diastema-comparing-processes-as-curves-of.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/learning-without-weights-a-geometric-learner.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/beyond-weights-a-fixed-transmission.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/the-hodos-family-equations-generated-by-a.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/a-clock-made-of-relations-intrinsic-duration.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/a-control-blind-by-construction-testing-a.html</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://muse-vektorgeist.github.io/floukie/papers/the-law-of-two-why-a-relational-ontology.html</loc>
+    <lastmod>2026-09-17</lastmod>
   </url>
 </urlset>
